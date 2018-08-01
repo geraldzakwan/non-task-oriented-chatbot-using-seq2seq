@@ -1,3 +1,4 @@
 *.h5 filter=lfs diff=lfs merge=lfs -text
 *.txt filter=lfs diff=lfs merge=lfs -text
 chatbot_train/very_large_data/glove.6B.100d.txt filter=lfs diff=lfs merge=lfs -text
+chatbot_train/models/cornell/word-weights.h5 filter=lfs diff=lfs merge=lfs -text
