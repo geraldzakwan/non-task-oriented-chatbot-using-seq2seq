@@ -68,13 +68,15 @@ def reporthook(block_num, block_size, total_size):
 def load_glove():
     download_glove()
     word2em = {}
-    file = open(GLOVE_MODEL, mode='rt', encoding='utf8')
-    for line in file:
-        words = line.strip().split()
-        word = words[0]
-        embeds = np.array(words[1:], dtype=np.float32)
-        word2em[word] = embeds
-    file.close()
+    list_of_files = ['glove_100_1', 'glove_100_2', 'glove_100_3', 'glove_100_4', 'glove_100_5']
+    for elem in list_of_files:
+        file = open('chatbot_train/very_large_data/' + elem + '.txt', mode='rt', encoding='utf8')
+        for line in file:
+            words = line.strip().split()
+            word = words[0]
+            embeds = np.array(words[1:], dtype=np.float32)
+            word2em[word] = embeds
+        file.close()
     return word2em
 
 
