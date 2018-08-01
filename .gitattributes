@@ -1,2 +1,7 @@
 chatbot_train/very_large_data/glove_100.txt filter=lfs diff=lfs merge=lfs -text
 glove_100.txt filter=lfs diff=lfs merge=lfs -text
+chatbot_train/very_large_data/glove_100_1.txt filter=lfs diff=lfs merge=lfs -text
+chatbot_train/very_large_data/glove_100_2.txt filter=lfs diff=lfs merge=lfs -text
+chatbot_train/very_large_data/glove_100_3.txt filter=lfs diff=lfs merge=lfs -text
+chatbot_train/very_large_data/glove_100_4.txt filter=lfs diff=lfs merge=lfs -text
+chatbot_train/very_large_data/glove_100_5.txt filter=lfs diff=lfs merge=lfs -text
