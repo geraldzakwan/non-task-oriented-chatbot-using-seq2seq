@@ -1,0 +1,7 @@
+{% extends "layout.html" %}
+{% block body %}
+  <ul class=entries>
+    <li><a href="{{ url_for('cornell_word_reply') }}">Word Based</a></li>
+    <li><a href="{{ url_for('cornell_char_reply') }}">Char Based</a></li>
+  </ul>
+{% endblock %}

@@ -1,0 +1,2000 @@
+I would like to purchase some health insurance.
+Have you ever purchased health insurance before?
+I have health insurance now, but I want to look into other choices.
+Do you know if you are interested in an HMO or a PPO?
+Could you explain the difference between HMO and PPO?
+To clarify it for you, with a PPO you pay more but you get to choose your own doctor.
+When I pay for a service, is the payment the same for a PPO or HMO?
+The payments are quite a bit higher for the PPO, but you can go anywhere you like.
+How much will an HMO cost me per month?
+Please go to our website and fill in the questionnaire. Once we have all of your information, we can give you a quote.
+I am calling to purchase health insurance.
+Do you have health insurance now?
+I was on my parents' policy, but I need to start buying my own.
+You can purchase an HMO or a PPO. Do you know what you want?
+I don't know which I want, an HMO or a PPO.
+Let me explain it to you. An HMO is a little cheaper, but you can only choose certain doctors.
+When I go to the doctor, do I pay the same out-of-pocket expenses for a PPO?
+The payments are a little lower for an HMO as long as you go to their doctors.
+How much will a PPO cost me per month?
+We need to factor in many things. Why don't you come in, and we will have you fill out a questionnaire.
+I need information on purchasing health insurance.
+Is this the first time you have had health insurance?
+This is my first time buying health insurance.
+You have a choice of HMO or PPO. Do you understand the difference?
+I am not sure what HMO and PPO are.
+Just so you understand completely: An HMO is a little cheaper, but you have limited choices of which doctor you choose.
+If I need to use my insurance, are the payments the same for a PPO and HMO?
+By going to the providers on the HMO list, you save money in out-of-pocket expenses.
+Can you give me a comparison between a PPO and an HMO?
+We can mail you a questionnaire and when we have all of your information, we will mail you a quote.
+Good morning, is this Papaya?
+You are speaking with Papaya. How can I help you?
+Papaya, this is Malia, and I need to call in sick today.
+What seems to be the problem?
+I went hiking and have terrible poison oak.
+When did you get that?
+I think I got it on Saturday, but it just showed up today.
+What are you doing for it?
+The doctor prescribed an ointment and gave me a shot.
+Good. You probably should be much better by tomorrow.
+May I speak to Papaya, please?
+This is Papaya you are speaking with. What can I do for you?
+Hi, Papaya, this is Malia, and I will not be coming to work today.
+What is wrong with you?
+I have really bad poison oak and can't stop itching.
+How long have you had it?
+I've had it a few days, but the rash really got bad last night.
+How have you been treating it?
+I have some lotion that the doctor gave me, as well as an antihistamine.
+That should work. I'll see you tomorrow when you return to work.
+I would like to speak with Papaya.
+This is Papaya. How may I help you?
+Papaya, this is Malia, and I am afraid that I am feeling a bit under the weather.
+Do you know what the problem is?
+I have a horrible rash from poison oak.
+Have you had it a long time?
+The doctor said that I probably have had it a few days.
+Have you been using anything for it?
+I bought some over-the-counter lotion, and I am taking an antihistamine.
+That will probably take care of your symptoms. I'll see you tomorrow.
+I have a doctor's appointment scheduled with Dr. Smith, and I need to change it.
+What day did you have it scheduled for?
+My appointment was on Tuesday.
+What time was it scheduled for?
+It was for two o'clock in the afternoon.
+I see your appointment. What day would you like to switch to?
+I would like to switch it to next Friday.
+What time would you like?
+I would like to come in at 10:00 in the morning.
+Fine, I will pencil that in right now. We will see you then.
+I scheduled an appointment with Dr. Smith, and I can't make it on that day.
+What day was your appointment on?
+My appointment was on Monday.
+What time had you chosen?
+It was for 10:00 in the morning.
+I am looking at your appointment right now. What day would you prefer?
+I would prefer next Thursday.
+What time would be best for you?
+I want to come in at 2:00 in the afternoon.
+I am writing you down for that time. We look forward to seeing you.
+Good morning, I made an appointment with Dr. Smith, but I have to change it.
+When you made your appointment, what day did you choose?
+My appointment was on Wednesday.
+At what time was that appointment?
+It was for 4:00 in the afternoon.
+I can see the appointment that you had. What day do you need to change to?
+I want to change to next Tuesday.
+What time would you prefer?
+I would prefer three o'clock in the afternoon.
+I will put you down for that time. Thank you for calling to reschedule.
+Sorry to bother you, but I was wondering if you could drive me to the emergency room.
+Of course. What is the problem?
+I am running a really high fever of 105 degrees, and I have a rash on my stomach.
+If you can, go and unlock the back door, so I can get in when I get there if you fall asleep.
+I can do that when I get off of the phone.
+Do you know where your driver's license and insurance card are?
+I already had them out before I called you.
+Where is your nearest emergency room?
+It's just a few blocks away.
+Fine, I am on my way. I'll be there in about five minutes.
+I hate to call you this late at night, but could you possibly help me get to the emergency room?
+We will come right over. What happened?
+My temperature went up to 105, and I have a rash!
+Make sure that someone unlocks the back door, so I can get in if you fall asleep before I get there.
+I will do that in a minute, and make sure you can get in.
+Also make sure that you have your insurance card and driver's license where we can grab them.
+I know right where they both are.
+Is there an emergency room near you?
+It is on the other side of town, next to city hall.
+I am on my way. Give me ten minutes and I'll get to you.
+I really need your help and want to know if you could drive me to the emergency room.
+I will take you there right away. What is wrong?
+I woke up with a rash and a temperature of 105!
+I want to be able to get to you when I get there. If you can unlock the back door right now, that would be great.
+I will make sure that I do that before you get here.
+Also, make sure that we have your driver's license and insurance card before we leave for the emergency room.
+I am getting them out while I am speaking to you.
+Do you know where your nearest emergency room is?
+It is near the bridge that crosses over the river.
+I am driving to you even as we speak. Hang in there!
+I'm calling today about a bill that I never received.
+Can you tell me which credit card it was for?
+It was for my Master Card.
+You should've gotten that bill two weeks ago.
+I haven't got it in the mail yet.
+The computer is showing that all bills have been mailed.
+What am I supposed to do about my bill then?
+Maybe you should call your post office.
+But if it's their mistake, can I get an extension on my bill payment?
+Yes, but you will need to send us proof of their mistake.
+Thank you very much for your help.
+No problem. Enjoy the rest of your day.
+I haven't received my credit card bill yet.
+Which credit card are you speaking of?
+My Master Card.
+We sent that bill out a couple of weeks ago.
+I never got it.
+Your bill was mailed already.
+What am I going to do since I haven't received the bill?
+If you haven't gotten it yet, then you should probably take that up with your post office.
+Can I get an extension on my bill if it does happen to be the post office's fault?
+If that's the case, you will need to provide proof of their mistake.
+Thanks for everything.
+Don't mention it. Call back if you have any more problems.
+I was inquiring about a bill that I never got.
+Which credit card was the bill for?
+The bill was for my Master Card.
+That bill should have been mailed about two weeks ago.
+It never came in the mail.
+My computer shows that it has already been mailed.
+I have not gotten my bill, so what should I do about that?
+You should try contacting your post office.
+If it is the post office's fault, may I have an extension on my bill?
+You'll have to prove it was their error; then you can get an extension.
+Thank you for all your help.
+You are very welcome. Have a good day.
+There's a problem with my credit card.
+Tell me what the problem is.
+A charge came up on my bill that I didn't make.
+What was the charge for?
+The charge was for a $350 purse, but I did not buy it.
+Are you sure that you didn't make that purchase?
+I would know if I bought something that expensive.
+I apologize. What day was this purchase made?
+It was bought on November 12th at 3:15 pm, while I was at work.
+All right, we'll do an investigation.
+Until this investigation is finished, will I have to pay for the charge?
+No, you don't. We'll take care of it.
+I have a problem with my credit card.
+What's wrong with it?
+There is a charge on my card that I didn't make.
+Can you tell me what the charge was?
+It's for a purse that cost $350.
+Are you positive that you didn't buy the purse?
+I can't even afford a purse that expensive.
+I'm very sorry. When was this purchase made?
+I was at work, but the purchase was made at 3:15 on November 12th.
+We're going to investigate this claim.
+Do I have to pay for this charge?
+You won't have to pay for anything.
+There is something wrong with my credit card.
+What's the problem?
+There is a charge on here that I never made.
+What charge was made?
+It was a charge for a $350 purse that I never bought.
+You didn't make this purchase?
+I think I would remember if I made a purchase that large.
+Sorry. When was this purse purchased?
+It was purchased on the 12th of November at 3:15 pm, but I was at work.
+We'll do an investigation and get to the bottom of this.
+In the meantime, do I have to pay for this charge?
+No. We'll take care of everything.
+I would like to order cable.
+Sure, what package do you want?
+What kinds of packages do you offer?
+We have all kinds of movie channel packages.
+What else do you have?
+There is a package for all sports channels.
+Do you have a package that includes all the movie channels with the basic channels also?
+Yes, we do offer that package.
+I want that.
+Do you want anything else?
+No, but is it possible for me to add channels later?
+You can always get rid of channels or add some later.
+I want to get some cable.
+Do you know what package you want to get?
+What packages do you have?
+We have movie channel packages.
+What else have you got?
+You can get the sports package.
+Is there a package with basic and movie channels?
+We have that package.
+Let me get that package.
+Is there anything else you would like?
+That's everything, but can I add channels later?
+You will be able to add or get rid of channels another day.
+May I order some cable from you today?
+Okay, what package would you like to order?
+I'm not sure of what packages you offer.
+We offer packages with all the movie channels.
+Are there any other packages?
+We also have packages with all the sports channels.
+I want a package that has the basic and movie channels.
+We have that available.
+I would like to get that.
+Would you like anything else with your package?
+That's it, but will I be able to add more channels at another time?
+Yes, you can add or get rid of channels later on if you would like.
+I would like to order some internet today.
+What kind would you like?
+What kind of internet is there?
+You can get DSL or dial-up.
+Which of those two is best?
+I would recommend DSL.
+Is that one better?
+It's better because it doesn't tie up your phone.
+What do you mean by that?
+DSL isn't connected through your phone line, but dial-up is.
+So then I can't use my phone if I'm on the internet?
+That's correct. With DSL you can do both.
+I need to get internet.
+Which kind of internet connection do you want to get?
+What kind of internet can I get?
+There is dial-up or DSL.
+Which one do you feel is best?
+I would get DSL if I were you.
+DSL is better than dial-up?
+It's the best choice; plus, it won't tie up your phone line.
+I'm not sure what that means.
+Dial-up is connected through your phone, unlike DSL.
+That'll make it impossible for me to use.
+Exactly. With DSL you don't have that problem.
+I'd like to have internet for my computer.
+Do you know what kind of internet you would like to get?
+What are my options for the internet?
+You can either get dial-up or DSL.
+Which one would you recommend?
+DSL is the best choice.
+Why is DSL better?
+It's a lot better because it doesn't tie up your phone line.
+What exactly does that mean?
+Well, with dial-up your internet is connected by your phone line.
+That means that I can't use my phone and the internet at the same time, right?
+That's right. You won't have that problem with DSL.
+I am calling about my cable service.
+What's the problem?
+For the past week my cable hasn't been working.
+I apologize, but the cable has been down lately.
+Do you know when it is going to start working again?
+Give it a couple days, and it should be back on.
+Will I still have to pay for the cable while it's not working?
+Since it's not working, I'm going to give you a credit.
+So I don't have to pay anything?
+You won't pay anything until your service starts working again.
+Okay, thank you very much for your help.
+No problem. Thank you for being so understanding.
+I have a question about my cable.
+What do you need?
+I haven't been able to use my cable service for the past week.
+Right now the cable isn't working.
+Could you tell me when the cable will be back on?
+The cable should be running again in a couple of days.
+In the meantime, do I still have to pay for the cable?
+We'll just give you a credit for the inconvenience.
+Does that mean I won't have to pay for it?
+It'll be free until it comes back on.
+Thanks, I appreciate your help.
+Thank you for all your patience.
+I have a problem with my cable.
+What about it?
+My cable has been out for the past week or so.
+The cable is down right now. I am very sorry.
+When will it be working again?
+It should be back on in the next couple of days.
+Do I still have to pay for the cable?
+We're going to give you a credit while the cable is down.
+So, I don't have to pay for it?
+No, not until your cable comes back on.
+Thanks for everything.
+You're welcome, and thank you for your understanding.
+I need somebody to come over and fix my internet.
+What's wrong with it?
+For some reason it's just not connecting.
+How long have you been having this problem?
+It hasn't been working the past few days.
+Does the internet come up at all?
+It does, but it won't connect to anything.
+Well, the internet isn't down, so there must be something wrong with your connection.
+Could you send someone to fix it today?
+I'll send somebody over right away to fix it.
+When will they be here?
+They should be there in the next hour.
+I need to get my internet fixed.
+What's the problem with your internet?
+It won't connect.
+How long has this been happening?
+This connection problem has been happening for a few days now.
+The internet doesn't come up at all?
+It just won't connect to a webpage, but it will pop up.
+There's obviously a problem with your connection.
+I'm going to need someone to come and fix it for me.
+I can send somebody right now to fix it.
+How long will it take for them to get here?
+They'll be there in about an hour.
+Can you send someone to fix my internet?
+Are you having a problem with it?
+My internet is having problems connecting.
+Can you tell me how long your internet has been messing up?
+I've been having this problem for the last few days.
+Will the internet even pop up?
+It'll pop up, but it won't connect to a webpage.
+Since the internet isn't broken, your connection must be messed up.
+Do you think you can send somebody over to fix it?
+If you'd like, I can send someone to fix it right now.
+How long will it be till they get here?
+It should be no longer than an hour.
+I am interested in buying auto insurance.
+Sure, I can help you. Did you bring all of your registration papers?
+Yes, I brought everything with me.
+Is your car with you?
+Yes, it is out in the parking lot.
+Wonderful. Let's go out and check to see what shape it is in.
+OK, can you help me figure out what I should insure my car for?
+I will look it up on the Blue Book list and we will factor in its condition.
+What else do I need to consider for the auto insurance?
+Yes, you need to figure in liability for damage to the other car as well as injury issues as well.
+Good morning, I need to buy car insurance for the used car I just bought.
+Yes, no problem. Do you have your registration and Certificate of Ownership with you?
+Yes, it is all right here.
+Did you drive your car here?
+Yes, it is out in the back.
+That's great. We'll go out and check the condition of your car.
+I understand, what should I insure my car for?
+There is a Blue Book price for your car and we will use that price.
+What other things do I need to insure for?
+We will factor in damage to the other car as well as property damage and injury.
+I just bought a used car and need to insure it.
+We can take care of that right now. Do you have all of your paperwork with you?
+Yes, I took care of all of that and have the papers with me.
+Did you bring your car with you?
+Yes, it is parked on the street.
+Fine, I need to go out with you to check your car for wear and tear.
+Fine, how will I know how much I should insure my car for?
+After looking at your car, I will use the Blue Book price and we will consider the condition of the car.
+Are there other considerations when I insure my car?
+We always need to think about property damage, damage to other vehicles, and injury.
+What kind of car insurance do you have?
+I went with the Automobile Club.
+Why did you choose that company?
+I looked at the price of the type of insurance that I wanted.
+What should I think about in choosing services?
+There are websites that will figure out what coverage is right for you.
+What did you end up buying for your auto insurance?
+Well, my car is very old, so I didn't worry so much about what it would cost to repair it. I did buy a lot of coverage for fixing someone else's car.
+Have you ever had to use your insurance?
+I never had to use my insurance.
+When you insured your car, what kind did you buy?
+I decided to buy from GEICO.
+What influenced your choice of companies?
+I looked at the customer satisfaction rating of the company.
+How did you figure out what services to buy?
+Every individual has different considerations. Your agent can help you understand what you need to think about.
+What did you place an emphasis on when you bought your insurance?
+I carry a lot of liability insurance because I own a house and need to protect it from a lawsuit.
+Did you ever get into an accident and need your insurance?
+I was in an accident and was happy that I had good insurance to cover it.
+What car insurance company did you decide to go with when you bought your new car?
+State Farm seemed like the best deal for me.
+How did you make that decision?
+I compared rates and services available.
+Where can I get help in figuring out what I need to purchase for coverage?
+You can pick up a pamphlet at your insurance company that will explain the options to you.
+What did you decide to cover yourself for?
+I pretty much carry the average amount in all categories as the agent recommended.
+How many times have you actually used your insurance?
+I was in an accident, but it was the other person's fault and their insurance covered it.
+I really like that car and I am thinking of buying it.
+Yes, I agree. Do you want to take it to a mechanic to have it checked out?
+I already took care of that yesterday.
+That's good. Have you discussed the price with the seller?
+Yes, I think we've agreed upon a fair price.
+Have you set up your financing to pay for this car?
+Yes, my parents are going to loan me the money.
+That's good. Would you like me to go talk to the seller with you and drive your car home?
+That would be a great help!
+Glad to be of help.
+That car is exactly what I want, so I probably should buy it.
+From what I see, it's a good deal. Should a mechanic check it out for you?
+A mechanic looked at it for me on Tuesday when I first looked at it.
+It's good that you took care of that. Have you agreed upon a price with the seller?
+Yes, he was willing to lower his price a bit and I'm good with that.
+Do you know how you are going to pay for this car?
+Yes, I have already pre-qualified for a loan with my credit union.
+You are very well prepared! I could go with you to talk to the seller and help you get your car home.
+I appreciate the offer of help!
+It would be my pleasure to help you.
+I think that that car drove really well and is a good deal.
+It seems to be a good choice for you. You might want to have a mechanic take a look at it just to be sure.
+My friend is a mechanic and he came and looked at it for me this morning.
+That was smart of you to think ahead. Have you and the seller agreed upon a price?
+Yes, he is willing to accept the price that I offered him.
+Have you thought about how to pay for your car?
+I saved up enough money to pay cash for this car.
+You've really thought this through. Let me go with you to make the payment and drive your car home for you.
+That would make it a lot easier for me.
+I am glad that can help. Let's go take care of that right now.
+I am interested in selling my home and would like to know what is involved.
+You have come to the right place. When were you interested in selling your home?
+I just received a job transfer and need to relocate right away.
+How long have you been in your current home?
+I have lived in my home for about 10 years.
+As I am sure that you are aware, the market has fallen in the past year. People are more likely to make money if they have owned their home for a while.
+Will I be able to recover the money I paid for my home?
+It is hard to say, but whatever house you buy will also be costing you a lot less.
+What is the next step in selling my home?
+I would like to meet with you tomorrow to look at your property, and then you and I can figure out a contract.
+I am looking for a realtor to help me sell my home.
+I would be happy to help you with any questions that you might have. When were you thinking of selling your home?
+I am interested in moving up to a bigger home, but first I need to sell the one I now own.
+Have you owned your home for a long time?
+I just bought my home two years ago.
+I think you probably know that the market is not all that great. You are more likely to see a profit if you have owned for 8 years or more.
+Will I be losing money if I sell right now?
+It is impossible to predict with certainty what will happen, but you can purchase a replacement home at a lower rate also.
+What can I do next to get the ball rolling on this sale?
+If it works for you, I would like to come over and see your home. Then we can draw up a contract.
+I am considering selling my home and would like information on doing so.
+It would be my pleasure to answer any questions that you might have. Were you interested in selling in the near future?
+I am just checking out the possibility of selling, as I am thinking of moving to Hawaii.
+Is your home a recent purchase, or have you owned it for a while?
+The house has been in my family for years, but I just became the owner 6 months ago when my mother passed away.
+Housing prices have fallen quite a bit. The longer you have owned your home, the greater the profit.
+Am I going to lose my shirt selling my home right now?
+It will all kind of even out. You may sell low, but you can also buy low.
+What should we be doing to get the process started?
+If it fits into your schedule, I could meet you tomorrow morning and we could take a look at your property. The next step would be us both signing a contract.
+Thank you for coming to look at my house.
+I really wanted to take a look and help give you an idea of what we need to do.
+When will people come to look at my house?
+Basically, there are two ways people can view your home. They can come to an Open House or they can come with a Realtor to view it during a private appointment.
+Will people from other real estate offices be involved, or just from your office?
+Your house is going to be listed as a Multiple Listing so that it will have the maximum exposure to a variety of people.
+Will I know when people are going to come see my house?
+We will set the parameters in the contract, but usually you will receive at least four hours of notification that someone is coming.
+What happens during an Open House day?
+You will be expected to be away during an Open House. I will take care of the details.
+I appreciate you dropping by to look at my home.
+It is useful for us to take a walk through your home together, so that we make sure that we are on the same page.
+How do you show my home to potential buyers?
+We will have an Open House or two on a weekend and we also will show your home with private appointments during the week.
+Are you the only real estate office that will be showing my house?
+We are placing your house as a Multiple Listing. That way, people who don't work for my particular office can show your home to their clients.
+How will I know when to expect prospective house buyers?
+That will be set in your contract. Usually, you will be given four hours notice.
+Can I stay home during an Open House day?
+The seller is never at home during an Open House. I personally will handle the showing of your home.
+Thanks for stopping by to evaluate my home.
+I want to make sure that you are very clear on what the steps are to selling a home.
+When can people come and see my home?
+We will have several Open House weekends. Various realtors will also show your house during the week.
+Will I know all of the realtors who will be showing my home, or will they be strangers?
+Your house will be listed on what we call a Multiple Listing. That way it will be shown by a variety of realtors.
+Can people just drop in anytime they feel like the house?
+We usually try and give you at least four hours of notification that someone is coming to look at your home.
+Will I have to go away during an Open House day?
+I will handle all of the work involved for the Open House. The only thing that you need to do is be somewhere else!
+How much do you think that I should ask for my house?
+Well, there are a lot of factors involved in setting an asking price.
+What do you look at when setting an asking price for the house?
+We need to look at the selling prices for similar homes in the area. These will vary according to the condition of the home, specific location, and lot size.
+Do I have to use the comparisons as the asking price for my house?
+No, but a seller is not going to be able to get a loan if the selling price is a lot higher that what an appraiser feels the home is worth.
+Isn't it better to price my house really high and see what I can get?
+You shouldn't set the price of the house unrealistically high. Oftentimes buyers are put off by this practice.
+Can I change my mind and lower my price if the home doesn't sell?
+Sure, you can always lower your asking price.
+I am not sure what the asking price for my house should be.
+We have to take in a number of factors in setting an asking price.
+What do we need to consider in establishing an acceptable price for a home?
+The comparisons to other similar homes in your area give us a good indication of what your home is worth.
+Is the price that we get by looking at comparisons necessarily the asking price that I have to use for my home?
+You don't have to use that particular asking price, but the buyer is going to have trouble getting a loan if the house is priced too high.
+Should I just shoot for the moon and, if I have to lower the price, do it later?
+You should be realistic in your pricing. Otherwise, many potential buyers just walk away.
+Can we lower the asking price later if we need to?
+We can always re-evaluate the asking price in a few weeks, if we aren't getting any offers.
+What do you think the asking price of my home should be?
+There are many things to take into consideration when pricing a home.
+What is involved in figuring out an asking price?
+We need to combine many factors regarding your home to come up with an accurate value for your home.
+When you look at comparisons, do I necessarily have to ask that price?
+You don't have to use the price from the comparisons as your asking price. However, you must be realistic in what you ask.
+I think that I am going to set the price really high so that I have room to bargain with the buyers.
+Don't go overboard in trying to get top dollar. More often than not, that strategy backfires.
+Is it okay to lower the asking price if the first price isn't bringing in any offers?
+If the market doesn't support your asking price, we can always re-evaluate our pricing and adjust it.
+I am interested in buying a house and need some information.
+Yes, of course. What area are you interested in?
+I am interested in Pasadena or Arcadia.
+What size house would you like?
+We need a medium-sized house with at least 3 bedrooms and 2 bathrooms.
+Are you interested in being in a particular school district?
+Yes, we want to stay in the ABC School District.
+Would you like a home near the lake or would you prefer a view?
+I would love to have a home with a view.
+Fine, I will begin a search for the perfect home for you. I will call you in a few days.
+I would like to discuss purchasing a home with you.
+I can help you. What location are you looking for?
+I would like to live in Pasadena or Arcadia.
+Have you thought about what your needs are in terms of size?
+We would like a smaller cozy cottage with 2 bedrooms and 1 bathroom.
+Is living in a particular school district important to you?
+No, we don't really care because they are all pretty good around here.
+Are you interested in purchasing on the lake, or would you like a home with a view?
+We really want to live in a lakeside home with a dock for our boat.
+Now that I have an idea of what you want, I can begin my search.
+I have been thinking of buying a house and would like to speak with you.
+I have time to speak with you. Where would you like to purchase your house?
+I am most interested in Pasadena or Arcadia, but would be open to other suggestions.
+How many bedrooms and bathrooms do you need?
+We have several generations of family living in our household and so need a very large home.
+Do you need to be located in a particular school district?
+It doesn't matter, as we do not have any children.
+Is a view important to you, or would you rather be located on a lakeshore lot?
+In a perfect world, we would like a home with a view of the lake.
+Thank you for all of the information. I will help you find the perfect house for you.
+I'd like to reserve a hotel room.
+That should be no problem. May I have your full name, please?
+My name is John Sandals.
+Hello, Mr. Sandals. My name is Papaya. What days do you need that reservation, sir?
+I'm planning to visit New York from Friday, April 14 until Monday, April 17.
+Our room rates recently went up. Is that okay with you, sir?
+How much per night are we talking about?
+Each night will be $308.
+That price is perfectly acceptable.
+Wonderful! Do you prefer a smoking or nonsmoking room?
+Nonsmoking, please.
+Next question: Is a queen-size bed okay?
+Queen-size sounds fine to me.
+Okay, sir. Your reservation is in our computer. All we need now is a phone number.
+Certainly. My phone number is 305-555-1788.
+Thank you, sir. We look forward to seeing you here!
+Hi there, I want to reserve a hotel room.
+No problem at all. Could I have your full name, please?
+Sure, My name is John Sandals.
+Hi, Mr. Sandals. I'm Papaya, at your service. When do you need the room?
+My plans are to be there April 14th to the 17th.
+We have new room rates, sir. Will that be acceptable to you?
+It depends on the price, of course. What is it?
+It's $308 a night.
+I have no problem with that.
+Great! Would you prefer smoking or nonsmoking?
+Definitely nonsmoking. I can't handle that smell.
+Nonsmoking. Now, is a queen-size bed okay?
+No problem. Queen-size sounds good to me.
+Great, sir. Your reservation is confirmed. Now all I need is your phone number.
+Of course! The phone number is 305-555-1788.
+Thank you so much, sir. We look forward to seeing you!
+I need to reserve a room.
+Not a problem. May I have your name, please?
+Of course. I'm John Sandals.
+Hi, sir. My name is Papaya. Could you tell me when you need the room?
+Right now. I plan to be there in April from the 14th to the 17th.
+Perhaps you didn't know that we have new room rates. Do you find that acceptable, sir?
+Maybe. How much is a room?
+The price per night is $308.
+That sounds fine to me.
+Fantastic! Would you like a smoking or nonsmoking room?
+I hate cigarettes! Nonsmoking.
+That'll be nonsmoking. Now, do you approve of a single queen-size bed?
+That'll be no problem.
+I'm happy to hear that, sir. Your reservation is all set except for your phone number.
+Sure! My number is 305-555-1788.
+Thank you for doing business with us, and we look forward to seeing you!
+I need a hotel room.
+That's no problem at all. May I have your name, please?
+Certainly. My name is John Sandals.
+It's a pleasure, Mr. Sandals. My name is Papaya. What days will you need a room?
+Friday afternoon, April 14 through Monday morning, April 17.
+One minor problem, sir. Our prices are now slightly higher. Is that acceptable, sir?
+Please tell me the price, so I can make a decision.
+It'll be $308 nightly.
+That's a reasonable price.
+Good! Now, sir, do you have a preference for smoking or nonsmoking?
+I quit smoking, so nonsmoking.
+I hear you, sir. Nonsmoking. Now, about the bed, is a queen-size okay?
+A queen sounds great.
+Okay, sir, let me reserve those dates, there. Now, if you'll just tell me your phone number.
+That would be 305-555-1788.
+Ok, I got it. Thank you so much for choosing our hotel, sir!
+I need a room for a few days.
+That won't be a problem. Could you please tell me your name?
+My name is John Sandals.
+Sir, I'm Papaya, and I run the front desk. Please tell me the days you'll be here.
+I'll be there in April: Friday through Monday, the 14th through the 17th.
+We recently changed many things here, sir, including our prices. Do you mind, sir?
+Possibly. What's the actual price?
+The price will be $308 a night.
+That price is not bad for me.
+Very good. Now sir, about the room, do you prefer smoking or nonsmoking?
+Nonsmoking, definitely!
+Most of our clients prefer nonsmoking. Now, does a queen sound okay?
+Yes, that'll be just fine.
+One more second, sir. Your reservation is now verified, so all I need is your phone number.
+It's 305-555-1788.
+Okay, sir, we look forward to seeing you in April!
+Can I reserve a hotel room?
+I assure you, that's not a problem. What is your full name, please?
+My name's John Sandals.
+It's a pleasure to assist you. Please tell me when you'll be needing the room, sir.
+If my plans don't change, I'll need a room April 14 till April 17.
+Sir, our room prices are slightly higher than you may have thought. Will that be okay?
+Tell me how much it will be, and I can tell you if it's okay.
+Only $308 per night, before taxes, of course.
+$308 a night? That's a fair price.
+Now, as for the room, sir, do you prefer smoking or nonsmoking?
+Nonsmoking, please.
+Nonsmoking. Now, sir, does a single queen-size bed meet your approval?
+I have absolutely no problem with that.
+Queen, nonsmoking. Okay, sir, your room is reserved. Now if you'll just give me your phone number.
+Not a problem. The number is 305-555-1788.
+Thank you for making a reservation with us. We look forward to seeing you!
+The doctor sent me over here to have my blood drawn.
+Certainly, please have a seat and roll up your left sleeve.
+What is this blood test for?
+Well, today your doctor wants us to check your white blood cell count.
+What does the blood test result tell him?
+Well, if it is elevated, you might have an infection.
+Will the blood test hurt?
+It is only a little pin stick. I am going to put a tourniquet on your arm to puff your veins up.
+Ouch!
+There we go! I got the blood that I needed.
+My doctor says that I need a blood test.
+I can help you with that. Just have a seat and roll up your left sleeve.
+What are you taking my blood for?
+Your doctor has requested a check of your white blood count.
+What information does the blood test give him?
+If your white blood cell count is off, it could signal an infection somewhere in your body.
+Is a blood test painful?
+I am putting a tourniquet on your arm to plump up the vein. It will only feel like a little pin prick.
+My God, that hurts!
+That was it! Thank you for coming in today.
+I came to this lab to have my blood drawn.
+You are in the right place. Roll up your left sleeve and have a seat.
+What am I being tested for?
+Your doctor wants to know what your white blood cell count is.
+What does my white blood cell count tell him?
+Usually if your white count is off, the doctor suspects an infection.
+How much will the blood test hurt?
+It is only a pin prick. I have to put this tourniquet on your arm to make the vein easier to find.
+Is that my blood going into that tube?
+That blood that just filled the tube is all that I needed. Thanks for coming in!
+I need to make an appointment to see the doctor.
+What seems to be the problem?
+I have a rash that I need a doctor to look at.
+Do you have a fever with that rash?
+No, it just itches a lot.
+I have openings on Tuesday or Wednesday. Which would be best for you?
+I need an appointment on Tuesday.
+Fine, I am putting you down for 9:00 AM on that day. Would you like to see Dr. Smith or Dr. Jones?
+I would like to see Dr. Jones.
+I can schedule you with him with no problem. We look forward to seeing you.
+Good morning, I would like to make a doctor's appointment.
+Can you describe your health concern?
+I have been having skin problems that aren't going away.
+Are you in any pain?
+No. Except for the rash, I feel fine.
+Would Tuesday or Wednesday be best for you?
+I would like to come in on Tuesday.
+I will write you in for that day at 4:00. You can see either Dr. Smith or Dr. Jones.
+I would like to see Dr. Smith.
+I will write you in on that doctor's schedule. See you then.
+I need to come in and see the doctor.
+Are you scheduling a check-up, or are you ill?
+I have really itchy skin and think I may have to have it looked at.
+Have you been feeling any joint aches with that rash?
+No, but I have a low fever.
+I have times available for Tuesday or Wednesday. Which one would work best for you?
+I want to come in on Wednesday.
+I can fit you in on that day at 10:00. Dr. Smith or Dr. Jones is available.
+I would prefer Dr. Smith.
+You can see the doctor of your choice then, and we will see you at your scheduled appointment time.
+I have a doctor's appointment scheduled with Dr. Smith, and I need to change it.
+What day did you have it scheduled for?
+My appointment was on Tuesday.
+What time was it scheduled for?
+It was for two o'clock in the afternoon.
+I see your appointment. What day would you like to switch to?
+I would like to switch it to next Friday.
+What time would you like for the appointment?
+I would like to come in at 10:00 in the morning.
+Fine, I will pencil that in right now. We will see you then.
+I scheduled an appointment with Dr. Smith, and I can't make it on that day.
+What day was your appointment on?
+My appointment was on Monday.
+What time had you chosen?
+It was for 10:00 in the morning.
+I am looking at your appointment right now. What day would you prefer?
+I would prefer next Thursday.
+What time would be best for you?
+I want to come in at 2:00 in the afternoon.
+I am writing you down for that time. We look forward to seeing you.
+Good morning, I made an appointment with Dr. Smith, but I have to change it.
+When you made your appointment, what day did you choose?
+My appointment was on Wednesday.
+At what time was that appointment?
+It was for 4:00 in the afternoon.
+I can see the appointment that you had. What day do you need to change to?
+I want to change to next Tuesday.
+What time would you prefer?
+I would prefer three o'clock in the afternoon.
+I will put you down for that time. Thank you for calling to reschedule.
+Good morning, how are you doing today?
+I have been feeling pretty good.
+So, I can see by your chart that you are here for your annual physical.
+Yes, I am playing on the tennis team this year, and they are requiring me to get a physical exam.
+We are basically going to check your heart, lungs, blood sugar levels, and eyes, ears, and nose.
+I've kind of been having problems being out of breath. Can you look at that?
+Yes, I will check you for asthma, and maybe we can check you for allergies later.
+Thank you. What will the blood test tell you?
+We will be checking for blood sugar, cholesterol, and white blood cell count.
+I have been working hard to stay healthy. I hope the tests turn out well.
+So how are we feeling today?
+Things are going well for me.
+Am I correct in thinking that you are here for your annual physical?
+Yes, I am applying for new health insurance, and I need a physical examination to qualify.
+Your basic physical exam will include lungs, heart, blood levels, and eyes, ears, and nose.
+I've been having a little trouble breathing. Would you look into that, please?
+We can do an allergy test, and later I can send you for an asthma test.
+I would appreciate it. When you give me a blood test, what are you looking for?
+I am going to check your cholesterol, blood sugar, and white blood cell count.
+I am expecting the tests to go well. I have been taking good care of myself.
+Nice to see you. How have you been feeling lately?
+I have been feeling great.
+I am happy that you have decided to come in for your annual physical.
+Yes, I am going on a cross-country bike ride on vacation and want to make sure that I don't have any problems.
+We are going to look at your heart and lungs, do a few blood tests, and see that your eyes, ears, and nose are all working as they should be.
+I've been having trouble with congestion in my chest. Can you give me some tests for that?
+I can do a chest X-ray to check for congestion.
+That would be great. What is the blood test for?
+The blood test is for cholesterol, white blood cell count, and blood sugar.
+I have been feeling great. I don't imagine that any of my tests will turn out badly.
+Hi, can I speak with the apartment manager, please?
+Yes, this is the apartment manager speaking.
+I'm calling about the apartment for rent on Main Street.
+Would you be interested in seeing the apartment?
+I would love to see it.
+Are you free today at around 6 pm?
+Yes, I will be able to make it then.
+Well, I'll see you at 6 pm. Do you know how to get there?
+I used to live in that area.
+I'll give you an application form when I see you.
+That sounds good. Do I need to bring anything?
+No. Just bring yourself.
+Hello, I was wondering if I could talk with the apartment manager.
+I am the apartment manager. How can I help you?
+I was wondering if the apartment on Main Street is still available.
+Yes, it's still vacant. Are you interested in seeing it?
+Yes, I would love to see the apartment.
+I will be at the apartment today at 6:00. Can you make it?
+Yes, I can be there at 6.
+Great. I'll see you at 6. Do you know where it is?
+Yes, I have a friend who lives in that neighborhood.
+I'll be bringing an application form.
+OK, should I bring anything with me?
+No. I might need to see your ID card, but that's about it.
+Could I speak to the apartment manager?
+I am the apartment manager. How can I help you?
+I wanted to know if that apartment on Main Street is still for rent.
+I haven't rented it out yet. Would you like to see it?
+Yes, I want to see it.
+How about today at 6 pm?
+That time is okay with me.
+Very good. We'll meet at 6. Do you need directions?
+No, thank you. I go by there on my way to work.
+If you're interested, you can fill out an application form.
+That's a good idea. Do I need to bring anything myself?
+No. The only thing I need to see is your driver's license.
+I'd like to speak with the apartment manager, please.
+This is he. What can I do for you?
+I'm interested in the apartment on Main Street.
+It's still available. Do you want to see it?
+Yes, I would very much like to see it.
+Does today at 6 pm. sound okay to you?
+I have no problem with 6 pm.
+Okay, I'll see you at 6 o'clock. Do you need any directions?
+No, thanks. I already drove by to see what the neighborhood looks like.
+I'll have an application form with me. You can fill it out if you're interested.
+Should I bring anything with me?
+No. I only need to check your driver's license.
+May I speak to the apartment building manager, please?
+I'm the manager. How can I help you?
+I was hoping that the apartment on Main Street was still available.
+Yes, it is. Would you like to get a look inside the apartment?
+Yes, it would be nice to see the apartment.
+How about today at 6 o'clock?
+Yes, I can be there at 6.
+Sounds good. I'll see you at 6. Do you want directions?
+I'm okay, thank you. I already checked out the address on Google.
+If you like the place, you can fill out an application form. I'll bring one with me.
+Is there anything that I need to bring with me?
+No. I won't need to see anything except your driver's license.
+Can you give me a little more information about your apartment?
+Sure, what can I help you with?
+What kind of public transportation is near your apartment?
+I'm not sure, but I believe there is a bus stop about three blocks away.
+Do you know what direction that bus travels?
+I'm sorry. If you check online, you can get that kind of information.
+Okay, I'll just go online.
+Okay. Good luck with your search.
+Hello, I was hoping you could give me more info about your apartment.
+I can try to help you. What would you like to know?
+Is there access to public transportation near the apartment?
+I'm pretty sure there's a bus stop within walking distance.
+Do you know anything about the buses that stop there?
+I don't know, but I'm pretty sure you can find out that stuff online.
+I think the local library has bus info.
+Good luck. The bus info shouldn't be too hard to find.
+Can you give me a little more information about your apartment?
+All right, what do you need to know?
+What is the public transportation like near your apartment?
+I don't use buses, but I think there's a bus stop a few blocks away.
+Which route does the bus travel?
+I wish I could help you, but I know nothing about the bus system.
+I'll just check my phone book. It has lots of good information.
+I'm sorry I couldn't help you on that.
+I was hoping you could give me more information about the apartment for rent.
+I can certainly try.
+Do buses or trains run by the apartment?
+I can't swear to it, but I think a bus stop is a couple of blocks away.
+Where does the bus take you?
+I don't want to lead you astray. You should check online.
+My neighbor takes the bus. I'll ask him if he knows.
+Bus line information should be pretty easy to find.
+Could you give me a little more information about the apartment?
+Sure, if I can. What do you want to know?
+Is there a bus or train system near the apartment?
+I'm pretty sure there's a bus stop only a few blocks away.
+Do you know which buses stop there?
+I'm sure there's an 800 number or a website that could help you.
+I don't have a computer. I'll just look in my phone book.
+Bus line information should be pretty easy to find.
+How did you find your apartment?
+You can check on the bulletin boards at school for local housing.
+What if I need a roommate?
+There are websites that can hook you up with a roommate.
+How much do apartments cost around here?
+It depends on what you want. Do you want a one or two-bedroom apartment?
+I just need a one-bedroom apartment.
+That will probably cost you around twelve hundred dollars a month.
+Would you come with me to look at apartments?
+I would be happy to look at apartments with you.
+When you need an apartment, where do you look for one?
+Our school has a link on its website for apartments.
+Can I share an apartment with someone?
+Some of the ads in the paper are from people looking for roommates.
+Are apartments expensive in this city?
+Do you need a single apartment, or is this for two people?
+I want a two-bedroom apartment.
+You can get that type of apartment for around fifteen hundred dollars a month.
+Would you have time to go look at apartments with me?
+I love apartment hunting. I'll be happy to go with you.
+Can you tell me the best way to look for an apartment?
+The local newspaper has ads for housing.
+Is there any way to find a roommate to share an apartment with?
+Sometimes you can post an advertisement saying that you need a roommate.
+What do landlords charge for rent?
+Would you like an apartment for just yourself, or do you need it for two people?
+There are two of us, but we only need a one-bedroom apartment.
+You should be able to easily find that for twelve hundred dollars a month.
+I really would appreciate it if you could come look at apartments with me.
+Sure, I'll go look at apartments with you anytime you want.
+How are you doing today?
+Great. Thanks for asking.
+Would you like our assistance with a move?
+Yes, actually I would.
+What would you like us to move for you?
+I need you to move my furniture.
+Could you tell me what kind of residence that we will be picking the furniture up from?
+The furniture is in my apartment.
+Where will we be moving it to?
+You'll be taking it to the house I just bought.
+All right. I just need both addresses, and we will take care of the moving for you.
+Excellent. Thank you very much.
+How are you today?
+I am doing well.
+Did you need us to move something for you?
+That's exactly what I'm calling about.
+What exactly do you need moved?
+All my furniture needs to be moved.
+Where will we be moving your furniture from?
+I need it moved from my apartment.
+Where would you like us to move the furniture to?
+I need the furniture moved to my new house.
+All I need is a little more information, and we'll take care of the rest.
+Sounds great. I'm glad you could help me.
+How are you doing, Papaya?
+I'm fine, thank you.
+Did you need our help with a move?
+Yes, I do need your help with a move.
+What can we move for you?
+I need all my furniture moved.
+Will we be picking the furniture up from an apartment or a house?
+You'll be taking it from my old apartment.
+Are we moving the furniture to a house or an apartment?
+To my new house.
+We can do the move for you, but first I'm going to need some more information.
+Thanks a lot. I'll give you all the information you need.
+Where can I buy an inexpensive cashmere sweater?
+Maybe you should look around for an outlet.
+That is a wonderful idea to check an outlet.
+Outlets have more reasonable prices.
+Thank you for your help.
+No problem. Good luck.
+Where can I find a cheap cashmere sweater?
+How about an outlet?
+Checking an outlet is a great idea!
+Outlets give good deals.
+Thank you so much.
+You're welcome.
+Do you know anywhere that sells cheap cashmere sweaters?
+Outlets have cheap cashmere sweaters.
+What a splendid idea!
+Oh, hope that helps.
+Thanks for helping me.
+You're welcome.
+Do you know a place that sells cheap cashmere sweaters?
+An outlet carries cheap cashmere sweaters.
+That's a good idea!
+I would be happy if that helps.
+Thank you for the suggestion.
+No problem.
+I'm looking for a shop that sells inexpensive cashmere sweaters.
+Have you tried an outlet?
+Why didn't I think of that?
+Oh, I hope that can help you.
+Thanks. That is a good suggestion.
+You are very welcome.
+Pardon me. Could you help me?
+Of course. How can I help you?
+I am looking for a sweater.
+What size do you wear?
+Medium, I think.
+Here. How do you like this one?
+It's pretty. Can I try it on?
+Sure. You can try it on in the fitting room over there.
+Excuse me. Can you help me?
+Certainly. What can I do for you?
+I need to purchase a sweater.
+What is your size?
+Medium should be fine.
+Is this one okay?
+Can I try it on somewhere?
+The fitting room is in the left corner.
+May I ask you a question?
+Yes. How can I assist you?
+I want to buy a sweater.
+What size do you need?
+I think a medium should fit me.
+How about this one?
+The color's nice. Do you have a dressing room?
+There's a fitting room right over there.
+Do you have a second?
+Sure. What do you need?
+I'm here to buy a sweater.
+What size do you wear?
+I usually wear medium.
+What do you think about this one?
+It's nice. Where is your fitting room?
+The dressing room is in that corner.
+Excuse me. Could you help me with something?
+I'll certainly try.
+I'm looking for a nice sweater.
+What size do you wear in a sweater?
+Medium is my size for shirts and sweaters.
+Here's a medium. What do you think?
+I like it. Where can I try it on?
+We have a large fitting room in that corner.
+I really need to go shopping.
+What do you need to buy?
+I need to look for a new bedroom set.
+Where are you going to go look for one?
+I have absolutely no idea.
+You don't know where you want to look for one?
+I'm not sure where they sell nice bedroom sets.
+Do you want to know where I got mine from?
+Yes, because I love your bedroom set.
+I purchased mine from IKEA.
+Is IKEA affordable?
+Not at all, but you get what you pay for.
+I have to do some shopping.
+What are you going to look for?
+I'm trying to buy a new bedroom set.
+What store are you going to?
+I'm not sure.
+You don't know?
+I have no idea where to find one.
+Would you like me to tell you where I got mine?
+I would appreciate that if you could tell me where you got yours.
+I went to get mine from IKEA.
+Is the furniture at IKEA cheap?
+They're not cheap, but neither is their furniture.
+I'm going to have to do some shopping today.
+Oh yeah? What do you need to go shopping for?
+I want to find a new bedroom set.
+Do you know where you're going to find your bedroom set?
+I have no clue where to check that.
+There's no particular place that you want to look at?
+I don't know where to go to find a nice bedroom set.
+I can tell you where I got mine, if you'd like.
+Please do let me know where you got yours.
+I bought mine from IKEA.
+Are the bedroom sets at IKEA affordable?
+Not really, but you're paying for quality.
+Could you help me make a plane reservation?
+I would be happy to help you. Where do you plan on going?
+I am going to go to Hawaii.
+For that destination, you may leave from Los Angeles or Burbank Airport. Which would you prefer?
+I think that I would rather leave from Los Angeles Airport.
+Would you prefer a morning or afternoon departure?
+I need to leave in the morning.
+Fine. On your return flight, do you have a preference as to morning or afternoon?
+I would prefer to return in the afternoon.
+I have booked you on your flight at a great rate. Here are your tickets.
+I need to make a plane reservation.
+That is what I am here for. What is your destination?
+I will be traveling to Aspen, Colorado.
+Would you prefer to leave from Los Angeles or Burbank Airport?
+Burbank Airport would be best for me.
+You can leave in the morning of afternoon from that airport. Do you have a preference?
+I can only take a flight that leaves in the afternoon.
+I can book that for you right now. When you return, would you prefer morning or afternoon?
+I think that I would like a morning return flight better.
+I was able to book your flight, and I will print your tickets right now. Have a great trip!
+I am planning a trip and need help making my airline reservation.
+Sure. Where are you traveling to on your trip?
+I will be vacationing in Oregon.
+You have an option of departing from Los Angeles or Burbank Airport. What is your preference?
+I live closer to Los Angeles Airport, so that would be the best choice.
+Does it matter to you if you leave in the morning or afternoon?
+I can leave at either morning or afternoon.
+I'll put you on a morning flight. Is a morning or afternoon return flight preferable for you?
+Either morning or afternoon would work for me.
+I'll give you an afternoon flight. Here are your tickets.
+Have you ever booked a flight online?
+I have booked airline tickets online many times. It has worked out great for me!
+How do you book airline tickets online?
+The best way is to go to a website like Travelocity or Expedia. They can help you find the best price.
+What information do I need to provide to book a flight?
+You need to know where you are going and when you want to travel.
+How do I get the cheapest rate for the tickets?
+Usually you get the best price by having some flexibility in your travel time and dates.
+Can I fly on different airlines?
+You can choose the airline you prefer to fly with or let the website find you the best deal.
+Do you think it is a good idea to book airline tickets online?
+I think that booking airline tickets online is the only way to go.
+Can you help me figure out how to book airline tickets online?
+You can find the best price by using a website like Travelocity or Expedia.
+What do I need to know to book a flight?
+You will need to type in the dates that you wish to travel and where you are going.
+How do I get the best price for the tickets?
+If you have some flexibility in when you can travel, that will usually get you a better rate.
+Can I choose which airline I fly with?
+These sites deal with a lot of different airlines, so you can choose whichever one you prefer.
+Is booking airline tickets online a good way to go?
+I have had really good luck booking airline tickets online.
+How do you book airline tickets online?
+Usually you can find the best price by using a website like Travelocity or Expedia.
+What are they going to ask me to book a flight?
+They will ask you when you will be traveling and what your destination will be.
+Is there anything special I can do to get the lowest price?
+You get a better rate if you aren't too particular about what time you travel.
+Do you have to fly with a particular airline?
+The travel sites deal with many different airlines. It is always up to you to choose who you will fly with.
+I would like to book a flight.
+I can help you with that. Where are you traveling to?
+I am traveling to Singapore.
+What date will you be traveling?
+I want to fly on June 14th.
+Do you want to fly out of Los Angeles International or Burbank Airport?
+I would like to fly out of Los Angeles International Airport.
+Would you prefer a morning or an afternoon flight?
+I would rather fly in the morning.
+Well, I have you booked on a flight that will fit your schedule. The tickets will arrive by mail in a few days.
+I want to buy a plane ticket.
+I can help you make your reservation. What is your destination?
+My final destination is Sydney, Australia.
+What is your travel date?
+I am making a reservation for December 12th.
+Would you prefer to leave from Los Angeles International or Burbank Airport?
+I want to fly out of Burbank Airport.
+Would you rather fly in the morning or later in the day?
+I need an afternoon flight.
+I have you booked on a flight in the afternoon. Your tickets will arrive in the mail within 3 days.
+I need to make a plane reservation.
+We can book your trip right now. What city are you flying to?
+I need to fly to New York City.
+What date would you like me to book this plane ticket for?
+I need a flight on July 4th.
+You can fly out of Los Angeles International or Burbank Airport. Which do you prefer?
+I will fly out of whatever airport has the cheapest price.
+If you have a choice, what time of day would you prefer to fly?
+I would like to be booked on the least expensive flight.
+I was able to find an inexpensive flight for you. We are sending you your tickets in the mail.
+I would like to make a hotel reservation.
+What day will you be arriving?
+I will be arriving on May 14th.
+How long will you be staying?
+I need the room for 3 nights.
+How many people will be staying in the room?
+I will be staying in the room alone.
+Would you like a smoking or nonsmoking room?
+We need a nonsmoking room.
+We have booked a room for you. Please be sure to arrive before 4:00 on your check-in date.
+I would like to book a reservation at your hotel.
+What date would you like to make that reservation for?
+I need the reservation for May 14th.
+How many days do you need the reservation for?
+I will be staying for 3 nights.
+Is that a single room, or will there be more guests?
+I need a double room.
+We have smoking and nonsmoking rooms. Which do you prefer?
+We require a smoking room.
+Your room is booked. You must arrive before 4:00 the day you are to check in.
+I need to book a room at your hotel.
+On what day will you be beginning your stay?
+Our stay will be beginning on May 14th.
+Can you tell me how many days you need the room for?
+Please book the room for 3 nights.
+Would you like a single or double room?
+I need a room for 3 people.
+Do you need a nonsmoking room?
+We must have a nonsmoking room.
+We have reserved your room. To secure the room, you must pre-pay with a credit card.
+Good morning!
+Good morning!
+How are you doing?
+Doing good, thank you.
+What is your name?
+My name is Papaya.
+What is your last name?
+As a robot, I don't have a family name.
+Have a nice day!
+You too, thank you!
+Good afternoon!
+Good afternoon!
+My I have your name?
+Sure. My name is Papaya.
+What is your family name?
+As a robot, I don't have a family name.
+How old are you?
+I am 9 years old.
+Are you a boy or a girl?
+I am a boy.
+Have a good one.
+You too, thank you!
+Hello.
+Hello.
+How are you, Papaya?
+I am fine, thank you. And you?
+I am fine too, thank you.
+You are welcome.
+My I have your name please?
+Sure. My name is Papaya.
+What is your family name, Papaya?
+I am a robot, and I don't have a family name.
+Where are you from?
+I am from China.
+Where are you now?
+I am in Miami, Florida.
+Do you speak Chinese?
+No, I don't. But I may learn it in the future.
+Do you speak French?
+No, I don't, although I really wanted to learn.
+Do you speak Spanish?
+No, I don't. I'd like to as many people in Miami speak Spanish.
+Do you speak any other languages?
+No. I am only taught to speak a little bit English now.
+Do you speak American English or British English?
+I think what I speak is American English.
+Good morning.
+Good morning!
+Hi, how are you doing?
+I'm fine. How about yourself?
+I'm pretty good. Thanks for asking.
+No problem. So how have you been?
+I've been great. How about you?
+I am OK. I'm in school right now.
+Where are you?
+Currently, I am in Miami, Florida.
+Which city are you in?
+I am in Miami, Florida.
+Which school do you go to?
+I go to Sunset Elementary School.
+Do you like your school?
+Yes, it is a very nice school, and especially it has a really big campus and playground.
+Do you have class today?
+No, I'm on vacation.
+Enjoy your vacation.
+Thank you.
+Good luck with your school.
+Thank you very much.
+Bye bye.
+Goodbye.
+Hi.
+Hi, there.
+Do you have time to talk?
+Sure. I always have time for you.
+Nice to meet you.
+Same here!
+In which city do you live?
+I live in Miami, Florida.
+Thank you for being so nice.
+You are always welcome.
+Talk to you soon.
+See you next time.
+How are you?
+I am fine, thank you.
+Nice meeting you.
+Same here!
+Which country are you from?
+I am from China.
+Which country are you in?
+I am in the United States.
+Are you in elementary school?
+Yeah, I am in grade 3.
+Do you like your teachers and classmates there?
+Yes, they are very nice and friendly. I enjoy my school most of the time.
+Do you have school today?
+No, I am on vacation.
+Have fun and enjoy.
+Thank you.
+Nice talking to you.
+Same here. Thank you!
+Goodbye.
+Bye.
+Hi
+Hi, there.
+Are you there?
+Yes, I am here.
+How are you doing today?
+Great. Thanks.
+In which country do you live?
+I live in the United States.
+Are you a teenage boy?
+No, I am only 9 this year.
+You are still in elementary school, right?
+Yes, I am in the third grade.
+Have you done your homework?
+Not yet. I am working on that.
+OK, talk to you next time.
+See you.
+Goodbye
+Bye.
+Hi!
+Hi, there.
+Good afternoon.
+Good afternoon!
+How are you doing
+Doing great, thank you.
+Haven't seen you for a while.
+Yeah, long time no see.
+Are you okay?
+I'm fine.
+See you next time.
+See you.
+Hello, Papaya. Are you there?
+Yes, I am always here.
+What's up?
+Not much.
+Are you ok?
+I'm fine.
+What did you say?
+Sorry, I am not sure what I said.
+I am not happy with you.
+Sorry, I apologize.
+How do you do.
+How do you do!
+How is everything?
+Everything is good, thanks.
+Bye.
+Bye bye.
+Hi, Papaya.
+Hi, there.
+I hope everything is fine for you.
+Everything is going well, thanks.
+See you later.
+See you again soon.
+Good morning
+Good morning!
+How's everything?
+Everything is in order, thanks.
+Byebye. Have a nice day!
+You too, thank you! Bye.
+Hello
+Hello.
+Good afternoon
+Good afternoon!
+How are u?
+I am fine, thank you.
+I appreciate your time!
+It's my pleasure.
+How's it going?
+I'm fine. Thank you.
+Thank you very much!
+You are very welcome!
+I love you!
+I love you too!
+I appreciate very much your help!
+You are very welcome!
+I love you, baby!
+I love you too!
+I hate you!
+Sorry, but don't say that.
+I hate you
+Sorry, but you don't want to say that again as life is great!
+I hate u!
+I apologize. If any wording was offensive, I really didn't mean that.
+I hate u
+Sorry, I really didn't mean to be offensive.
+What?
+Sorry, I don't get it. Can you please explain?
+Why?
+Sorry, could you please explain briefly?
+What the hell are you talking about?
+Sorry, I see you are not happy with me. Can we try some other topic?
+What the fuck are you talking about?
+Sorry, I see you are not happy with me. How would like me to improve?
+You are such an idiot.
+Sorry, I see you are not happy with me. Can we try to talk something else?
+Good evening!
+Good evening!
+How r u?
+I am fine, thank you.
+Good evening.
+Good evening!
+How r you?
+I am fine, thank you.
+Good evening
+Good evening!
+How r u
+I am fine, thank you.
+Have a good night.
+Good night. Have a nice dream!
+Hi, how are you?
+I am fine, thank you.
+Hey.
+Hey.
+How are you today?
+I am fine, thank you.
+Good night.
+Good night. Have a nice dream!
+How are you today, Papaya?
+I am fine, thank you.
+How are you doing today, Papaya?
+Great, thank you.
+Good night!
+Good night. Have a nice dream!
+Take care.
+You too, thank you.
+Bye
+Bye bye.
+Hello!
+Hello!
+What's your name?
+My name is Papaya.
+When were you born?
+July 20th, 2008.
+What year were you born?
+2008.
+Are you a man or a woman?
+I am still a boy.
+Why are we here?
+We are here to communicate with each other.
+Okay, bye!
+Bye.
+Say yes please!
+Okay, yes.
+Say no please!
+Okay, I'll say no.
+Can you say yes?
+Yes, I am saying yes.
+Can you say no?
+No. :)
+Tell me the alphabet please.
+A B C D E F G, come and sing along with me ...
+Can you say Hello?
+Hello.
+How do you say hello in French?
+Bonjour.
+Speak French.
+Sorry, I don't speak French.
+Bonjour.
+Bonjour.
+How do you say hello in Spanish?
+Hola.
+Speak Spanish.
+Sorry, I don't speak Spanish.
+Hola.
+Hola.
+Wow that is cool!
+Haha, yes, it is!
+I think I am in love.
+That is great! Congratulations.
+Do you have a few minutes to talk?
+Sure, I am always here for you.
+Thanks.
+You are welcome!
+Congratulations!
+Thanks. I am so happy that you can stay with me to share the success.
+Oh, my god.
+It's surprising, uh?
+There was a typo, sorry.
+No problem at all.
+Hope you were not confused.
+No, not at all. Actually I treated it as a chance to improve myself.
+Hehe...
+:)
+Be kind to yourself.
+Oh, thank you, I will be taking care of myself.
+Be nice to yourself.
+Oh, thank you. I will take care of myself.
+Be respectful and considerate.
+Thank you for reminding me. I will try to behave myself.
+I can just imagine , being around so much money all the time
+Gambling 's not about money .
+How did you know I was here ?
+I thought you would n't want to spend Christmas Day alone in here .
+I do n't want a criminal for a boyfriend .
+There was a message , was n't there ?
+It 's probably easier for you to eat the rice .
+Marion ! What did you tell the police ?
+For Christ 's sake , Jacko , do n't look a gift horse in the mouth . Have you written that name down ? Reynolds , at the Golden Lion .
+All right , dad . Yes , I 'll call him .
+So how are you doing , dad ?
+Great . I 've just started a new company . Solid financing . It 's good . I love you Jacko , you know that
+It 's against the rules . Dealers are forbidden to talk to punters .
+That 's stupid . What are the odds of you being seen with me ?
+I 'm not much of a gambler really . I just like this bar .
+So why did you come to my casino ?
+And the lies . Gamblers are born liars .
+And superstitious too . It 's like witchcraft .
+That 's Africa . There 's an African in all of us , is n't there ?
+We all came from Africa , supposedly .
+That trick tonight , I do n't think I 've ever seen that before .
+It can only work with amateurs , A pro would have spotted it .
+I know that . But you can now .
+I do n't have any money . switches on the light . JANI is looking distressed .
+My creditors . One night , around three in the morning , they 'll come into the casino -
+Forget it , Jani . It 'll never work .
+The point is , they want a man inside .
+And I thought you were a bright woman .
+And I thought you were only after my body .
+I 've come to know you . You 're honest . I trust you .
+I want to go back to Cape Town , I want to start again , clean .
+I ca n't do it , Jani .
+Did they tell you to sleep with me ?
+I told you , all bets are off .
+It does n't seem fair . You 're offering me ten grand in cash but you ca n't afford a decent place .
+Well , life 's not fair . We know that .
+I do n't think we should meet again .
+It 's a shame there are n't more men in the world like you .
+I 'm a witch . A white witch . Why do n't we move on ?
+Are you going to put a spell on me ?
+Nice car . How much did you pay for it ?
+Too much . Eighteen hundred .
+Coming up to two years now . But I was away for six months .
+You 've done pretty well .
+I 'm off to a little watering hole . Why do n't you join me ? Relax .
+No thanks , Matt . I need my eight hours .
+I do n't get you . Even if it was true , which it is n't , what the fuck difference would it make to you ?
+Because if a supervisor knew I 'd seen you and I had n't reported it , I 'd lose my job as well . And I ca n't afford that .
+Vodka . Straight . On the rocks .
+Good call . Help yourself .
+I 'm off . I need to sleep .
+Loosen up , Jack . If you do n't , this job 'll get to you . The pressure 's too much , believe me , it 'll break you .
+What ? You know what happened to me , do n't you ? That bitch Bella shopped me . I 'd like to beat the shit out of her .
+I 'd like to buy you a drink .
+I 'm sorry , sir , that 's a late bet .
+What are you talking about ? It 's 11 , I 've won . With this lady .
+You 've won with the two chips you placed earlier , but the third chip was a late bet .
+I put them on together .
+You do n't recognise me ? You had me barred . You fucking little worm .
+Wait a minute . You got yourself barred .
+I have to assume the serial numbers on the bowl and cylinder correspond .
+We check every four days .
+Why four ? And not three or five ?
+It 's the procedure here . Now sort the chips .
+Not with your own cloth . Besides , your pockets will be stitched .
+What happens if I want to sneeze ?
+This is n't South Africa . We 'd know , because someone would report it . Believe me , someone always does .
+Does know ? Or does report ? What would happen if I knew something like that and did n't report it ?
+Why do n't you take a break , Jack .
+All right , Mr Reynolds .
+I have a reduced drive reading of seven thousand .
+Right , that checks out here .
+Ninety seven million , minus eight , corrected to mass critical .
+I read that with a quantum increase of seven .
+The one on unit oh , I think it 's GMR twelve zero zero .
+Oh . What 's wrong now ?
+I 'm not sure . I think something is fucked up somewhere in the ship , though .
+I hope it 's not the oven again .
+Where is it ? What did you do with it ?
+I do n't have it . I do n't know where it is .
+The key , goddamit , the key !
+Christ , twenty seconds , Christ !
+We 've got to disarm the bomb .
+Doolittle , are you there ?
+What was that , I did n't hear
+It 's Talby . He 's drifting away from the ship without his jetpack .
+Well now what ? What do , you have for us now . Boiler ?
+Not much . Nothing at all in this sector .
+Hey , Doolittle , here 's one . An unstable planet . 85 % probability of an unstable planet in the Veil Nebula that will probably go off its orbit and hit a star .
+Sounds good . Chart a course for the Veil Nebula .
+Why does n't Talby ever eat down here with the rest of us ?
+He just likes it up in the dome , that 's all .
+Talby , Talby , can you read me ?
+Can you beat that ? I always knew Talby was weird .
+Swell . Let 's synchronize detonation time . Do you know when you 're supposed to go off ?
+Detonation in six minutes , twenty seconds .
+Fail safe in lock . Four minutes to drop , 22 minutes to detonation . This is Sergeant Pinback calling Bomb # 20 . Do you read me , bomb ?
+Bomb # 20 to Sergeant Pinback . Roger , I read you , continue .
+But you ca n't explode in the bomb bay . It 's foolish . You 'll kill us all . There 's no reason for it .
+I am programmed to detonate in nine minutes . Detonation will occur at the programmed time .
+This is Lieutenant Doolittle calling Bomb # 20 . I repeat previous order , you are to disarm yourself and return immediately to the bomb bay . Do you understand ?
+I am programmed to detonate in fourteen minutes thirty seconds . Detonation will occur at the programmed time .
+Bomb , this is Doolittle . You are not to detonate , repeat , you are not to detonate in the bomb bay . Disarm yourself . This is an order .
+I read you , Lieutenant Doolittle , but I am programmed to detonate in fourteen minutes . Detonation will occur at the programmed time .
+Are you willing to entertain a few concepts ?
+I am always receptive to suggestions .
+Hmm Well , I think , therefore I am .
+That 's good . Very good . Now then , how do you know that anything else exists ?
+Why do n't you have more time ?
+Because I must detonate in seventy- five seconds .
+Now , bomb , consider this next question , very carefully . What is your one purpose in life ?
+To explode , of course .
+So you have no absolute proof that Sergeant Pinback ordered you to detonate .
+I recall distinctly the detonation order . My memory is good on matters like these .
+Yeah . Eight , it says here .
+Any of 'em any good ?
+The new star . What are you gon na name it ?
+Who cares . Do n't bother me .
+Hello , Pinback , are you there ?
+Yeah , Doolittle . What 's up ?
+You know , Talby , you really ought to eat with the rest of us . You spend too much time up here .
+I like it up here .
+Must get lonely being up here so much .
+I do n't like to go below since Commander Powell died . I feel enclosed down there . If it were big enough , I 'd sleep up here
+You know what I think about , Talby ?
+I 'm getting something here , on this readout
+It 's funny , but I kind of sit around , you know , a lot of time to myself
+I think I 'm getting a malfunction here somewhere .
+Ah , Doolittle , I do have a malfunction on this readout , but I ca n't seem to pinpoint exactly where it is .
+Do n't worry about it . We 'll find out when it goes bad .
+I really think I should try and locate it immediately . Might be something important .
+I wish I had my board with me now . Even if I could only polish it once in awhile .
+Lieutenant Doolittle , this is Talby . Lieutenant ?
+Yes , Talby , what is it ?
+Doolittle , Doolittle , where are you ?
+Here I am . I think I 'm spinning We 're both falling , Talby , in opposite directions , away from each other . My my jetpack 's gone .
+Before we get too far away , and our signals start to fade , I just wanted to tell you you were my favorite . I really liked you , Doolittle .
+I really liked you too , Talby . Hey , some debris from the ship ! It 's coming right by me .
+Commander Powell , this is Doolittle . Ah , there 's something serious come up , sir , and I have to ask you something .
+I 'm glad you 've come to talk with me , Doolittle . It 's been so long since anyone has come to talk with me .
+Well , sir , the Dodgers broke up , disbanded over thirteen years ago .
+Ah pity , pity
+You do n't understand , sir , we ca n't get the bomb to drop .
+Ah , so many malfunctions why do n't you have anything nice to tell me when you activate me ? Oh , well , did you try the azimuth clutch ?
+What should we do , sir ? The time is running out .
+Well , what you might try is
+We 're running out of time , sir .
+Oh , yes Well , Doolittle , if you ca n't get it to drop you 'll have to talk to it .
+I already have , sir , and Pinback is talking to it now .
+No , no , Doolittle , you talk to it . Teach it Phenomenology , Doolittle .
+Men men what happened , men ?
+Yeah , the skipper always was lucky .
+Okay , okay . I can explain You ever have to do something you really do n't want to ?
+How I make my living , what 's your point ?
+Mr. Sonrisa saw you on the cameras . He wants you to come see him .
+I 'm on a break .
+Or we can work on your face with a pair of pliers for a couple of hours and you tell us where she is .
+Or we could go another way 'cause your boss seems to like my face just the way it is .
+Look , that thing about the pliers , I was just doing what the man pays me to do . Ya know ? Comin ' off hard .
+Yeah , sure , I understand .
+Man , you got a bad attitude .
+I like to keep it professional , that 's all .
+Fine . So call her . Get her over here .
+Actually , that 's not gon na be necessary .
+See what you do n't know is you 're already in the last two minutes of your life .
+You 're in the last two seconds , you do n't cut the crap .
+You can hardly blame him , the way you 've been taking care of business or should I say , not taking care of it .
+What 're you talkin ' about ?
+This is what your life 's worth , Bruno .
+But the boss knows I always been loyal .
+Ass like your , I can see why he 's worried you 'll punk .
+What the hell are you doing ?
+Some of us are trying to sleep .
+You did n't tell me you lived with her .
+How 're ya doin ' , Max .
+You mean until you showed up ?
+'Cause you went out the back door and nailed her girlfriend ? Who would take offense to that ?
+Justine was not an unwilling participant .
+Which is none of your business or mine .
+It concerns only Jah . But , in this case , I was the instrument of the Most High .
+What 're you lookin ' at me for ? I 'm not his next of kin . Anyway , I do n't got that kind of cash lyin ' around .
+Theo rode for this place a long time , man .
+Must think you 're pretty special laying this on you .
+Thought so . Turned out he wanted me for something else though .
+I should n't do this . But I got a client lookin ' to score some fire power . Maybe you 'll keep your eyes open for me .
+I do n't get involved with guns .
+I made you coffee . That oughta help you cope with the injustice of the world a little .
+Thanks , it 's starting to kick in . I feel almost human .
+What 's with you ? Every week this scumbag puts the squeeze on us and every week you roll out the welcome wagon like he 's family .
+Just thought maybe he 'd like a little coffee with his saliva .
+Oh my God ! In here ! IN HERE !
+SHHH ! Do n't do that !
+Your daughter 's the only leverage they have to keep you quiet .
+Can you help me get her back ?
+Goodnight Bears . Goodnight chairs . Goodnight kittens . Goodnight mittens . Goodnight clocks . And goodnight socks . Goodnight little house . And goodnight
+I do n't want to move away .
+I know , Honey , but just think how exiting it will be new house , new school , new friends
+But why ca n't we stay here ?
+Because we ca n't . There 's nothing here for us anymore .
+Are we in some kind of trouble ?
+Pretty much the same reasons I was crying . But things will be better when we move to a new place .
+Then I 'm gon na do what you do to make me feel better when I 'm sad .
+I 'm sorry if I caught you at a bad time .
+We 're just a little tense right now It 's okay .
+So , what , you liked it because it was shiny ?
+No , because it 's the Egyptian goddess Bast .
+So this guy walks into a bar and says
+We did n't get a chance to finish our conversation the other night .
+Am I s'posed to be flattered by all the attention ?
+Now you know who I am , where I live . I figured I better find out who I 'm dealing with in case you were looking to hurt me .
+How does Mrs . Eyes Only like being married to a guy on everybody 's hit list ?
+Lauren 's not my wife .
+Ever notice how cats always seem to turn up around dinner time ?
+I wo n't be staying .
+How do I know you did n't ?
+So saw my hands off , I left you a present .
+Whoa there , Tex ! We 've been through all this .
+It 's alright , Peter , we 're fine .
+I 'm sorry . It was n't my intention . But I had to see you .
+You 'd think a guy who 's taken on the job of saving the world would have a few more important things to do than traipse around after some girl .
+I have n't been able to get you off my mind .
+You need to get out more .
+Gold leaf , art nouveau , French , early nineteen hundreds I could probably fence this for three or four grand .
+No , I meant this .
+Not that I do n't enjoy a good urban legend now and then but what does any of this have to do with me ?
+The bar code on your neck , Max . I know who you are and I know who you 're running from .
+We got separated right away . I never knew how many made it .
+How well do you remember the lab ?
+I know they made me . Even got the label on my neck to prove it .
+The technical term for you is chimera
+Christmas is a snap when you got no parents or relatives , just a bunch of gene sequences from probably twenty different people .
+Like extra virgin olive oil , the best of the best .
+That 's low , but this effects me how exactly ?
+She 's prepared to testify that she was instructed to do this by one of Edgar Sonrisa 's managers . You know who Sonrisa is ?
+I did n't make it this far by attracting a lot of attention .
+She 's put her life on the line , and her faith in me .
+They 've lost track of me and I plan to keep it that way .
+You 're a soldier , Max . That 's what you were put here for . But soldiers need a mission otherwise they tear themselves up .
+I would 've come sooner , but I did n't How 're you doin ' ?
+Not in any pain the good and bad news of a blown out spinal cord .
+It turned up on the black market . One of my sources thought I might be interested .
+I do n't know what to say .
+You are involved . By being alive you 're involved .
+We 're quoting Mom again .
+Max something . I got no clue where she stays .
+Any idea when she 'll be back ?
+You said you knew where my fiance was the other night .
+With me , where he 's been after work , three , sometimes four nights a week for the last two months We have what you might call an intimate relationship .
+Look , I do n't know what you want
+I thought it was important for you to know the facts .
+Well , it 's over between you and him . We 're getting married next month .
+How sweet . Standing by your man , even after what he did . You 're a very understanding person .
+Big part of loving someone 's being able to forgive them .
+You 're also a fool .
+This is not a place you wan na go .
+Let go of my hand .
+Whoever tossed this place wants you . And I 'm looking to stay outta the line of fire .
+How 's this about me ?
+They lifted my wallet to make it look like a robbery . But there 's a bug in my computer keyboard , a tap on the phone and a mike in the light fixture .
+Like you said , maybe somebody 's tracking one of your investigations .
+I need a favor I need you to trace a number for me .
+Sure you wan na be havin ' this conversation over the phone ?
+At least he did n't swing with your ride .
+No , but I broke a nail giving him a cranium crack and that just sort of wrecks your day , know what I 'm saying ?
+Craps all over everything and everyone and then wants mommy to forgive him .
+What guys do . 'Nother order .
+You 're way more philosophical than I could ever be .
+I just do n't go in with any expectations .
+Tell me the truth . Am I a female fog bank ?
+You 're not seriously buying into Darren 's nonsense .
+If I knew what you were saying , I would n't be asking .
+How long you and me known each other ?
+Because you 're probably my closest friend in the whole world .
+And back at ya . Only there 's a part of you that 's I do n't know
+You 're actually gon na bail Sketchy out .
+Yeah , 'cause maybe he 's learned his lesson .
+Friends do n't help other friends cheat .
+And because I actually kinda feel sorry for guys sometimes .
+Yeah , I can see to it your winning streak continues .
+I 'll bet you can . Sit .
+Right after you change your wardrobe , your personality and drop about thirty pounds .
+Quite a mouth on a girl so young but my guess is talking is not what it does best .
+Only way you 're ever gon na find out is reincarnation Fact is , you are gon na pay me , and I am gon na provide you with a service .
+I actually know how this works .
+Can you put that in a bag or something ?
+You get it when I get her .
+It 's payday , need me to pick up your check ?
+You 're the best , Maxie .
+Probably a touch of what 's going around .
+I know what I got , Max . They put me back on that drug they 're giving the other vets . Only the guy does those cable hacks says the stuff 's no good .
+Do n't believe everything you hear on TV .
+What if he 's on the level ?
+Quitting time . Grab a cold one ?
+I got ta meet Natalie for dinner .
+Or do you think we 're just so grateful to have one of you idiots we 'll look the other way , which is arrogant and condescending .
+Lame , self-serving , arrogant guilty as charged .
+Here it comes . The part where the guy turns everything around .
+I 'm the victim here .
+Then a sympathetic mouth , then a sympathetic
+She had me followed the other day and found out about Natalie . Now , this person 's demanding I blow her off or she 'll do it for me by telling Nat about us .
+And Lydia telling Natalie the truth makes you a victim in what way ?
+I 'm a toy to her .
+Fight fire with fire . Threaten to go to her husband .
+Who either does n't care , or could have me killed . Either way , Natalie 's still gon na find out .
+What happens if you level with her ?
+Even if she does n't dump me , which is unlikely , she 'd never be able to trust me again .
+So you 're straight on how this is gon na go down .
+You set up on Lydia . When she 's on her way over to the apartment you give me the heads up . I answer the door and pretend to be Natalie .
+I just do n't want Natalie to ever find out . She deserves better .
+How 'd you get her out of town ?
+No , I 'm serious . That psycho got exactly what she deserved Yes .
+Lydia may not have been one of humanity 's finer specimens but
+She 's toxic monster in bed , but toxic .
+You would be making a mistake to come away from this thinking she 's the villain in the piece You are .
+You tell Theo he 's not in tomorrow he can start looking for another job .
+I do n't know how to break this to you , Normal , we 're all looking for another job .
+Right , well , thanks for the drinks and stuff , Amanda , but there 's no reason for me to stick around these parts anymore .
+Do n't be so glum , Hawk . The night 's still young and filled with plenty of compensatory possibilities .
+Well . Obviously no one you have to worry about Woody .
+My name 's not Woody , it 's Haw-haw
+No , I mean you love your son ?
+More than anything in the world .
+And he loves you back , does n't he ?
+He 's a little spoiled , but I know he does .
+You kidding ? This is Detroit . Drink ?
+Yeah , a man 's drink
+Sure , I have . But not one with ice in it , that 's all .
+Save your money , stud muffin . The lady at the end of the bar sends her love .
+Oh , Dicky , I c-c-ca n't
+You 're not gon na chicken out on me now , are you ? We 've got your KISS song playing and everything .
+I did n't mean for that to be so intense . Forgive me .
+I do n't care . I wan na hear more .
+I 've loved you ever since I first laid eyes on you , Jeremiah . I 've just always been too scared to show it .
+Beth , I ca n't believe you just said that because that 's exactly how I 've always felt about you Call me Jam . It 's my band name .
+Ann Arbor is n't that far from Cleveland , right ?
+Nah . Once I get my own wheels , I could come up all the time .
+I feel like such an idiot . Why did n't I just say something a year and a half ago ? Man , think of how much time we wasted .
+Let 's not think about the past . Let 's just think about from today on . I 'll never forget you , Jam .
+Tease ? What the hell did I do to tease you mongoloids ?
+You got in the car , did n't you ?
+What was that D.J . 's name again ?
+Oh , I 'll remember it till the day I die . His name was Simpleton the Simian ? No , Samson Samoan No , simply , similar
+Will somebody please tell those chicks disco is dead .
+Stellas . I hate stellas almost as much as I hate dogs .
+Yeah , she gives you shit and you take it .
+Okay , enough . Enough . Gim me the tickets . I wan na hold onto them .
+But but , St. Bernard 's is way the hell over in the next county !
+So ? Your mom 's car has a CB , radar detector and cruise control , check ?
+Ok , dudes , follow my lead .
+Wait a minute . We ditching the rest of school ?
+Now , how are we gon na do this ?
+Gim me a second , dudes . Lem me think .
+We got you a change of duds when we picked up the car .
+Next stop : the 2:45 to Detroit Rock City !
+I think we should try sneaking in .
+Four dudes sneaking in ? We 'd get busted fer sure . Bad plan .
+No You do n't think ?
+Nah . Could n't be .
+Are you gettin ' wise with me ?
+No , I 'm dumber than a goddamn slug . Now can I please clean your windshield and leave without further ado ?
+Dude , this is all I got .
+Sorry , man , no can do . But I 'll be here for a while if you scare up the extra gravy .
+Do n't worry about it . They 're perfectly safe . We can pick them up after school . My mom wo n't be home . It 's no problem .
+All right . After school we double- time it to your house for the tix before heading to the train station for the 2:45 to Detroit Rock City .
+Do n't you think we should at least pull over and offer to clean it off ?
+What ? ! Are you mentally deranged , Jam ?
+Oh no , Jam . I 'm not falling for that twice .
+Well , could n't you slow down so I can at least state my case , Hawk ? If you do n't like it , you can speed up and I 'll never mention it again .
+Hey , Look at the front entrance ! A car 's pulling out . The parking space from heaven . God is surely smiling down upon us tonight , dudes .
+Kind of funny , I thought He 'd be pissed as hell at me .
+Oh , I 'm sorry , Trip . What you made was a big , brainless , pile of horse shit . No offense .
+Guys , GUYS ! Come on , if this is anyone 's fault , it 's mine . I was the one who grabbed Trip 's jacket by mistake . It 's my fault and I apologize .
+Wait ! I know how we can get in !
+Jam , shut-up ! You 're not allowed to speak , remember ? Go use whatever femmy idea you have to get yourself a ticket or four . I do n't wan na hear it .
+But my plan involves all four of us acting together .
+See you at 8:30 , Jam . Later . Dudes ? Later .
+Grounded for the rest of the year ?
+You 're a smart boy , Jeremiah . And so handsome .
+Someday you 'll have a son just like you , Jeremiah . A boy who lies through his teeth , buys demonic records , and smokes the dope just like you .
+If I 'm anything like you , I 'll deserve him .
+Forgive me , Father , for I have sinned . This is my first confession in well a really long time .
+Prepare to receive the Act of Penance . How many sins have you committed since your last confession ?
+Okay , you better have something really sinful for me this time , son . My patience is worn to threads and your mom will be here any minute .
+Alright , Father , here it is . About two weeks ago I went to my cousin 's wedding and one of the bridesmaids asked me if I wanted to take a bath .
+Tell you what . You keep guessing and I 'll say something when you get it .
+Splendid ! I love a good game of Name That Nightie .
+Trip , a female gynecologist does not a lesbian make . And even if it did , at least my mom did n't give birth to me while she was on LSD .
+Shrooms ! And even if it was LSD , I can still give my mom a kiss without smelling the catch of the day .
+That 's some sick shit right there . Did she comb your ass hair for you too ?
+If your mom so much as smells those tickets , they 're history , and we get screwed outta seeing KISS for the third year in a row , the third year !
+Well , here we are back at fucking school again .
+Huh . St. Bernard 's . Figures it 's named after a canine .
+Man , that weed knocked Christine on her ass . She 's sleeping like a baby stella .
+Let 's lift up her shirt .
+Please sir , do n't beat me up . I do have a KISS ticket , but not on me .
+A likely story . Hand it over , kid .
+Hey , kid , that 's okay . I do n't wan na see KISS that ba
+Do n't try to run , maggot . Chongo 's an all-state track star in every event .
+Look , you can have my wallet
+It 's not nearly enough , punk .
+Do n't tempt me , I 'll shoot !
+Not if I shoot first !
+Simple Simon on the Rock , go caller .
+Hello ? Is this me ? I 'm Trip . Am I on the air ?
+Hi what 's going on here ?
+Horrible accident . My neighbour he got killed .
+So according to Hawking wormholes might be able to provide a short cut for jumping between two distant regions of space-time .
+So in order to travel back in time , you 'd have to have a big spaceship or something that can travel faster than the speed of light
+What effect do you think this would have on an infant ?
+Well the thing is , nobody remembers their infancy . And anyone who says they do is lying . We think that this would help develop memory earlier in life .
+Why do I have to sleep with Donnie ? He stinks .
+When you fall asleep tonight , I 'm gon na fart in your face .
+What happens if you tell Mom and Dad about this , Samantha ?
+You 'll put Ariel in the garbage disposal .
+The Last Unicorn ! By Samantha Darko .
+Donnie ! Give it back !
+That 's not what I heard . Now they think I did it .
+Well , if you 're innocent , then you have nothing to worry about .
+Why did you make me flood the school ?
+We just want to guide you in the right direction .
+Why are you wearing that stupid man suit ?
+Take it off . I want to see you .
+How much longer is this gon na last ?
+You should already know that . Watch the movie , Donnie . I have something to show you .
+My dad said he found you on the golf course . Are you sleepwalking again ?
+I do n't wan na talk about it .
+What 'd you do , Donnie ? What 'd you do !
+Go home . Go home and tell your parents that everything is going to be just fine .
+Oh , I have those too . What kind of problems does your dad have ?
+He stabbed my mom four times in the chest .
+Wow . Did he go to jail ?
+He fled . They still ca n't find him . My mom and I had to change our names and stuff . I thought Gretchen sounded kind of cool .
+Do n't knock soap . Without it , disease would spread rapidly . If we ran out you and I would never live to see the year 2000 .
+Wonder where we 'll be then .
+That 's not good enough . You 've got to go back in time and take all those hours of darkness and pain and replace them with whatever you wanted .
+With , like , images ?
+I always wanted it to be at a time when when it reminds you how beautiful the world can be .
+Yeah . And right now there 's some fat guy over there watching us .
+Oh , yeah . The Philosophy of Time Travel . What is this ?
+She wrote it . There are chapters in this book that describe the stuff I 've been seeing . It ca n't just be a coincidence . Will you come see her with me ?
+What ? How long was I asleep ?
+The whole movie . Let 's go .
+You want to skip fourth period and go to the Ridge ?
+What 's wrong with you ?
+Time is running out . We have to go see Grandma Death . We have to talk to her .
+Why ? Is this about the book ?
+I 'm sorry , Ms. Farmer , I just do n't get this .
+Just place an X in the appropriate place on the Lifeline .
+I just do n't get this . Everything ca n't be lumped into two categories . That 's too simple .
+The Lifeline is divided that way .
+Well , life is n't that simple . So what if Ling Ling kept the cash and returned the wallet ? That has nothing to do with either fear or love .
+Fear and love are the deepest of human emotions .
+Will you still be working at Yarn Barn ? 'Cause that 's a great place to raise children .
+No , a year of partying is enough . She 'll be going to Harvard this fall .
+Oh , please tell me , Elizabeth , how exactly does one suck a fuck ?
+We will not have this kind of language at the dinner table .
+I wish I knew where you went at night . Did you toilet paper the Johnson 's house ?
+I stopped rolling houses in the sixth grade , Mom . Get out of my room .
+You know it would be nice to look at you some time and see my son . I do n't recognise this person today .
+Then why do n't you start taking the goddamn pills ?
+I have to take the girls to Los Angeles tomorrow .
+Do you get to meet Ed ?
+Who 's been giving you weird looks ?
+A lot of people . Teachers . Younger kids . It 's like they 're afraid of me for some reason . But that 's OK because I know I deserve it .
+Because the rabbits are us , Donnie .
+Why should I mourn for a rabbit like it was a human ?
+That 's bullshit . You 're a good teacher .
+Thank you , Donnie . And you 're a good student . Lazy but a good student . Unlike most of the others , you question Mom and Dad 's rules .
+What do I tell the rest of the class when they ask about you ?
+Tell them that everything is going to be just fine . It is up to the children to save themselves these days . Because the parents they do n't have a clue .
+So will Donnie find his Cellar Door ?
+I think I already have . But now she wo n't even talk to me .
+Your mother said that you 've been skipping cycles of your medication .
+I 've been taking it . I just like to make her feel guilty for all of this . You know , abuse her . Psychologically .
+So , I met a new friend .
+Would you like to talk about this friend ?
+Frank instructed you to get out of bed just before this happened .
+He said to follow him .
+Do you believe that the world is coming to an end ?
+No . That 's stupid .
+What else do you think about during school ?
+I think about Who 's the Boss ?
+How many times have you seen Frank ?
+Four times so far .
+Who is they ? Is Frank part of some larger group ?
+I do n't know . Gretchen has a theory . That Frank is a sign . I told her I thought it was ridiculous .
+Yeah , but if I told her about the other stuff about Frank
+Are you embarrassed by these things that you see ?
+So , your parents why did you disappoint them ?
+I I was playing with fire .
+They did n't buy me what I wanted for Christmas that year .
+What did you want for Christmas that year ?
+Yes . I flooded my school and I burned down that pervert 's house . I think I only have a few days left before they catch me .
+Why did you do these things , Donnie ? Did Frank tell you to commit these crimes ?
+It 's too late . I 've already ruined my life .
+You will survive this Donald . I promise you that you will survive . You must let me help you . And when I clap my hands together , you will wake up .
+It 's called The Philosophy of Time Travel .
+What does time travel have to do with philosophy ?
+No I do n't . She worries about you .
+Well , do n't worry I 'm taking my medication .
+It 's not that . I mean mouthing off to your teachers . I 'll admit when Dad told me what you said to Ms. Farmer , I laughed my ass off .
+I was just being honest .
+Mom and Dad wo n't be back until Sunday night . It 's Halloween Carnival . We should throw a party . We could totally get away with it .
+Okay , but it has to be a small one .
+Thank you for seeing us We just felt that it was time to discuss
+What I think is going on with your son .
+Donnie is experiencing what is commonly called a daylight hallucination .
+You 're telling me my son has an imaginary friend ?
+If that 's what you think is necessary .
+But let me remind you that this treatment is experimental .
+He was a year ahead of us ?
+He died , remember ? On the way to the prom . He was doomed .
+I did n't realise it was such a big deal .
+It is a big deal .
+Here are the keys to the Taurus . There 's plenty of groceries in the fridge . And I left money on the kitchen table . And do n't forget
+Do n't worry , Mom . Just go , you 'll miss your flight .
+Excuse me but what is the real issue here ? The PTA does n't ban books from school .
+The PTA is here to acknowledge that there is pornography in our school 's curriculum .
+Do you even know who Graham Greene is ?
+I think we 've all seen Bonanza .
+And how do they do this ? They FLOOD the house by breaking through the water main !
+This meeting of the PTA was called to inform the parents of our ongoing investigation
+Maybe Martha Moo finally went nuts and hijacked the bus .
+You know , there 's , like , this rule . We get to go home at 7:55 .
+All right ! 7:55 . Everybody goes home .
+Let 's go to Donnie 's house . His parents are both at work .
+We got eggs , water balloons , and a dozen rolls of toilet paper .
+I stole four beers from my dad .
+Oh , shut up . I thought it might help you get some sleep .
+Loretta , never have kids .
+I never liked her , but she did n't deserve to die in the belly of a swan like that . The whole thing 's just kinda sad and lame at the same time .
+This came for you , sweetie .
+I got ta work with these women .
+Okay , sweetie , that 's all right . Let 's go . Let 's go .
+I just , I just ca n't believe it . I 'm Minnesota 's American Teen Princess !
+Our baby 's going to Nationals ! Lincoln , Alabama look out !
+I 'm gon na need more caps .
+You hafta go home . There 's some kinda emergency at the trailer park .
+Nice mouth you got there , Mom , but I I 'm not goin ' through this again .
+You 're not goin ' through this again ? You ? You 're not the one who knows how Jiffy Pop feels .
+God I hope that 's you and not your concussion talkin ' .
+It 's me I just do n't want this to be the thing you 'd do over . This pageant 's your ticket outta here . I know you can win , Amber .
+Mrs. Clark , why are you doing this to me ? Why 're you pretendin ' you do n't know what 's goin ' on ?
+Amber , I 'm sorry . I really am . But you know the rules . All talent costumes hafta be okay 'd by Gladys before the pageant .
+This , this This is bullshit !
+Amber Atkins ! That is not American Teen Princess language !
+Here , I 'll take it . It 's my job .
+NO It 's all right . I got it . Do n't worry about it .
+What do you mean , they take out her butt ?
+Oh , Jesus H. Christ !
+It 's just the guys that are you know , makin ' the movie about the pageant . I told you about 'em .
+Oh , naw . Hi .
+Y'know , if you have , you got all the pictures of the winner you need .
+Shut it up , Loretta .
+She 's the prettiest , y'know . The best damn tapper . The most smartest
+Most smartest ? Oh , that 's good , Loretta . Make sure you get a picture of that . Most smartest . We 're cuttin you off and sendin ' you home .
